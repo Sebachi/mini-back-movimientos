@@ -1,0 +1,34 @@
+{
+  "Movimientos": [
+    {
+      "id": 1,
+      "description": "Recarga de gasolina",
+      "price": 300000,
+      "type": "egreso"
+    },
+    {
+        "id": 2,
+        "description": "Pago de alquiler",
+        "price": 800000,
+        "type": "egreso"
+      },
+      {
+        "id": 3,
+        "description": "Salario quincenal",
+        "price": 1000000,
+        "type": "ingreso"
+      },
+      {
+        "id": 4,
+        "description": "Venta de electrodomesticos",
+        "price": 500000,
+        "type": "ingreso"
+      },
+      {
+        "id": 5,
+        "description": "Compra del mercado",
+        "price": 200000,
+        "type": "egreso"
+      }
+  ]
+}
